@@ -1,3 +1,7 @@
+# Protected Personal Information
+raw_data/
+*.csv
+
 # Virtual Env Files
 pyvenv.cfg
 bin/
